@@ -5,4 +5,4 @@ Emulator maded in C
 
 Use help to see commands
 
-![z80](Z80.png)
+![z80](z80.png)
