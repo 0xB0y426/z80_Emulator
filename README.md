@@ -1,2 +1,8 @@
 # z80_Emulator
-z80 Processor Emulator maded in C
+Z80 Emulator
+
+Emulator maded in C 
+
+Use help to see commands
+
+![z80](Z80.png)
